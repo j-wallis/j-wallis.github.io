@@ -1,13 +1,21 @@
 #clock {
     font: monospace;
-    font-size: 75px;
-    width: 400px;
-    margin: 200px;
+    font-size: 40px;
+    width: 200px;
+    margin: 80px;
     text-align: center;
     border: 1px solid black;
-    border-radius: 20px;
 }
 
 .images {
     text-align: center;
+}
+
+.header {
+     text-align: center;
+     background-color: blue;
+}
+
+.footer {
+    background-color: red;
 }
