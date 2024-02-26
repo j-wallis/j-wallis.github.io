@@ -13,11 +13,11 @@
     align-items: center;
 }
 
-.header {
+p.header {
      text-align: center;
      background-color: blue;
 }
 
-.footer {
+p.footer {
     background-color: red;
 }
