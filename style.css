@@ -2,10 +2,9 @@
     font: monospace;
     font-size: 40px;
     width: 200px;
-    margin: 80px;
+    margin: 80px auto;
     display: flex;
     text-align: center;
-    justify-content: center;
     border: 1px solid black;
 }
 
