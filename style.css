@@ -4,11 +4,11 @@
     width: 200px;
     margin: 80px;
     display: flex;
-    align-items: center;
+    text-align: center;
     border: 1px solid black;
 }
 
-.images {
+#images {
     display: flex;
     align-items: center;
 }
