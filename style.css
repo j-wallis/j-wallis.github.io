@@ -5,6 +5,7 @@
     margin: 80px auto;
     display: flex;
     align-items: center;
+    justify-content: center;
     text-align: center;
     border: 1px solid black;
 }
